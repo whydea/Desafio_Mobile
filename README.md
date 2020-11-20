@@ -9,6 +9,8 @@ Prova Mobile Whydea
 4. Deve conter uma tela de Login, Cadastro e tela inicial. (Não é necessário fazer integração com banco, porém se fizer ganhará ponto extra!)
 5. Devem ser feitos direcionamentos entre as telas e botões para voltar.
 6. Código deve estar limpo e com comentários sobre as funcionalidades.
+7. Gerar arquivo .apk
+8. Criar um repositório no github com todos os arquivos do projeto e a build.
 
 # Exemplos de telas
 
